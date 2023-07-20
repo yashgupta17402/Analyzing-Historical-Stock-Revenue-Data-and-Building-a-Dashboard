@@ -1,6 +1,7 @@
 #!pip install yfinance==0.1.67
 #!mamba install bs4==4.10.0 -y
 #!pip install nbformat==4.2.0
+#for visualizing nbformat may need greater than 4.2.0
 import yfinance as yf
 import pandas as pd
 import requests
